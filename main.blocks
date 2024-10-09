@@ -1,4 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="EEoV^YaWY-XtO,`vou=s" x="478" y="-39"></block><block type="pxt-on-start" id="K1dn/Cu5MGx#x/#UCR6u" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="N@nmndZF7nuL^cBjYX|-"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="EEoV^YaWY-XtO,`vou=s" x="441" y="-91"></block><block type="pxt-on-start" id="K1dn/Cu5MGx#x/#UCR6u" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="N@nmndZF7nuL^cBjYX|-"><field name="LEDS">`
         # # # # # 
         . . # . . 
         . . # . . 
@@ -28,4 +28,4 @@
         # # # . . 
         # . . . . 
         # # # # #
-        `</field><next><block type="basic_show_icon" id="EFp=`rd/CUwCMWbT6ZTo"><field name="i">IconNames.Heart</field></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
+        `</field><next><block type="basic_show_icon" id="EFp=`rd/CUwCMWbT6ZTo"><field name="i">IconNames.Diamond</field><next><block type="device_print_message" id="mhoz^YB5ZNk*E/7quzyT"><value name="text"><shadow type="text" id="^D|S!1N])AcSVIRN,Mr0"><field name="TEXT">jaime</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>

@@ -33,7 +33,8 @@ basic.showLeds(`
     # . . . .
     # # # # #
     `)
-basic.showIcon(IconNames.Heart)
+basic.showIcon(IconNames.Diamond)
+basic.showString("jaime")
 basic.forever(function () {
 	
 })
